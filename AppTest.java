@@ -1,4 +1,4 @@
-package com.Rostan;
+package com.Rhugved;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
